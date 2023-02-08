@@ -1,8 +1,8 @@
 import pytest
 import os
 
-from sacumen_test import upload_files
-from sacumen_test import settings, helper
+from ..sacumen_test import upload_files
+from ..sacumen_test import settings, helper
 
 
 BASE_DIR = os.path.dirname(os.path.realpath(__file__))

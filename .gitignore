@@ -6,3 +6,4 @@ dist/*
 build/*
 tests/__pycache__/*
 .coverage
+__pycache__/
