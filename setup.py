@@ -1,5 +1,8 @@
 from setuptools import setup
 
+# This file is getting used for create whl file of sacumen_test package. 
+# To create whl file, use command "python setup.py sdist bdist_wheel 
+
 setup(name='sacumen_test',
       version='0.1.0',
       description='This package is a solution to upload files to aws and google cloud storage based on file type',

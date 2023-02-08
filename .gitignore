@@ -4,3 +4,4 @@ sacumen_test/__pycache__/*
 sacumen_test.egg-info/*
 dist/*
 build/*
+tests/__pycache__/*
