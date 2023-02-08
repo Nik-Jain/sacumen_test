@@ -5,3 +5,4 @@ sacumen_test.egg-info/*
 dist/*
 build/*
 tests/__pycache__/*
+.coverage
